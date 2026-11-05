@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/supermercado-victor-marambio-PFY2202/static/css/main.98a8d809.css",
+    "main.js": "/supermercado-victor-marambio-PFY2202/static/js/main.2a0899eb.js",
+    "static/js/90.a71ff8a4.chunk.js": "/supermercado-victor-marambio-PFY2202/static/js/90.a71ff8a4.chunk.js",
+    "static/js/452.334f2bc5.chunk.js": "/supermercado-victor-marambio-PFY2202/static/js/452.334f2bc5.chunk.js",
+    "static/js/235.04ff59c7.chunk.js": "/supermercado-victor-marambio-PFY2202/static/js/235.04ff59c7.chunk.js",
+    "static/js/422.814d9db6.chunk.js": "/supermercado-victor-marambio-PFY2202/static/js/422.814d9db6.chunk.js",
+    "static/js/655.b1ee6172.chunk.js": "/supermercado-victor-marambio-PFY2202/static/js/655.b1ee6172.chunk.js",
+    "index.html": "/supermercado-victor-marambio-PFY2202/index.html",
+    "main.98a8d809.css.map": "/supermercado-victor-marambio-PFY2202/static/css/main.98a8d809.css.map",
+    "main.2a0899eb.js.map": "/supermercado-victor-marambio-PFY2202/static/js/main.2a0899eb.js.map",
+    "90.a71ff8a4.chunk.js.map": "/supermercado-victor-marambio-PFY2202/static/js/90.a71ff8a4.chunk.js.map",
+    "452.334f2bc5.chunk.js.map": "/supermercado-victor-marambio-PFY2202/static/js/452.334f2bc5.chunk.js.map",
+    "235.04ff59c7.chunk.js.map": "/supermercado-victor-marambio-PFY2202/static/js/235.04ff59c7.chunk.js.map",
+    "422.814d9db6.chunk.js.map": "/supermercado-victor-marambio-PFY2202/static/js/422.814d9db6.chunk.js.map",
+    "655.b1ee6172.chunk.js.map": "/supermercado-victor-marambio-PFY2202/static/js/655.b1ee6172.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98a8d809.css",
+    "static/js/main.2a0899eb.js"
+  ]
+}

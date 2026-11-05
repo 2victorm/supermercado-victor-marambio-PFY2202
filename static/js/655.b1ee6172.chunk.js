@@ -1,0 +1,2 @@
+"use strict";(globalThis.webpackChunksupermercado_victor_marambio_pfy2202||=[]).push([[655],{655(a,e,s){s.r(e);s(43);var t=s(475),r=s(579);const c=function(){return(0,r.jsxs)("section",{className:"card text-center",children:[(0,r.jsx)("h1",{className:"mb-2 text-2xl font-bold",children:"P\xe1gina no encontrada"}),(0,r.jsx)("p",{className:"mb-4 text-gray-600",children:"La ruta que buscas no existe."}),(0,r.jsx)(t.N_,{to:"/",className:"btn btn-primary",children:"Volver al inicio"})]})};s.d(e,["default",0,c])}}]);
+//# sourceMappingURL=655.b1ee6172.chunk.js.map
